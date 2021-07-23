@@ -1,6 +1,12 @@
 
 <h1 align="center"> 为梦想而创作：RXThinkCMF_TP5.1_PRO权限(RBAC)及内容管理框架</h1>
 
+## 项目说明
+原作者项目删除了数据库，删除了部分功能代码，导致没法使用。看了下代码，觉得项目还是不错的，于是基于原开源系统逆向修复绝大部分功能
+放给大家使用，原有源代码归原作者所有。
+
+请勿用于商业用途，否则自行承担法律风险，商业用途请购买原作者版权，请支持原创，谢谢！。
+
 <p align="center">
 	<a href='https://gitee.com/ruoxi520_admin/RXThinkCMF_TP5.1_PRO/stargazers'>
 	    <img src='https://gitee.com/ruoxi520_admin/RXThinkCMF_TP5.1_PRO/badge/star.svg?theme=dark' alt='star'></img>
